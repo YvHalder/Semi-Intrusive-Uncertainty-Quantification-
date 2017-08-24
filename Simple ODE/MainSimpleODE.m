@@ -1,3 +1,4 @@
+%Experiment
 %% Semi-Intrusive Method for Simple ODE u_t = -alpha*u, with u(0)=1
 %Exact solution: u(t) = exp(-alpha*t)
 clear all
